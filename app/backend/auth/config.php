@@ -2,7 +2,7 @@
 
 $GLOBALS['config'] = array(
     'app' => array(
-        'name'          => 'Lina Spa & Beauty salon',
+        'name'          => 'HPK Spa & Beauty care',
     ),
     'mysql' => array(
         'host'          => '127.0.0.1',

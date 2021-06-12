@@ -2,11 +2,11 @@
   <div class="row m-0 spotlight">
       <div class="col-12 col-md-6 p-0 d-flex justify-content-center ftco-animate" id="home-title">
           <div class="text mt-4 mt-md-0">
-              <span class="subheading">Chào mừng bạn đến với</span>
+              <span class="subheading">Wellcome to </span>
               <div class="horizontal">
-                  <h1 class="mb-4 mt-3">LINA Spa & Beauty salon</h1>
-                  <p style="display:inline">Trải nghiệm cảm giác</p>
-                  <h3 style="display:inline" class="mb-4 mt-3">Làm thượng đế</h3>
+                  <h1 class="mb-4 mt-3">HPK Spa & Beauty care</h1>
+                  <p style="display:inline">Trải nghiệm</p>
+                  <h3 style="display:inline" class="mb-4 mt-3">Làm đẹp từng centimet</h3>
                   <div><a href="about.php" class="btn btn-primary px-5 py-3 mt-3">Xem ngay</a></div>
               </div>
           </div>
@@ -66,7 +66,7 @@
             <div class="col-md-7 py-3 py-md-5 ftco-animate">
                 <div class="text text-2 py-md-5">
             <h2 class="mb-4">Cơ Sở Vật Chất Chuẩn 5 Sao, Sang Trọng, Hiện Đại</h2>
-            <p>Lina chú trọng đầu tư máy móc, công nghệ, trang thiết bị hiện đại. Khách hàng sẽ luôn có cảm giác thoải mái và an tâm khi đến Seouspa vì chất lượng dịch vụ tốt nhất với cơ sở hạ tầng khang trang.</p>
+            <p>HPK chú trọng đầu tư máy móc, công nghệ, trang thiết bị hiện đại. Khách hàng sẽ luôn có cảm giác thoải mái và an tâm khi đến Seouspa vì chất lượng dịch vụ tốt nhất với cơ sở hạ tầng khang trang.</p>
             <p><a href="product.php" class="btn btn-white px-4 py-3">Xem ngay</a></p>
                 </div>
             </div>

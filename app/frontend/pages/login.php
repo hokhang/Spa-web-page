@@ -11,11 +11,11 @@
 <div class="container" style="padding-top: 1%; padding-bottom: 5%;">
     <form name="loginForm" action="" method="post" onsubmit="return validateForm()">
         <div class="form-group">
-            <label for="username">Tên đăng nhập :</label>
+            <label for="username">Tên đăng nhập: </label>
             <input type="text" class="form-control" id="username" autocomplete placeholder="Nhập tên đăng nhập" name="username">
         </div>
         <div class="form-group">
-            <label for="pwd">Mật khẩu:</label>
+            <label for="pwd">Mật khẩu: </label>
             <input type="password" class="form-control" id="password" autocomplete placeholder="Nhập mật khẩu" name="password">
         </div>
         <div class="form-group form-check">
