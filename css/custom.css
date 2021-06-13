@@ -1,10 +1,10 @@
 body {
-    background-color: #bed0dc !important;
+    background-color: #DAFFC6 !important;
     font-size: 18px;
 }
 
 .header-bar {
-    background-color: #679b9b !important;
+    background-color: #8EE891 !important;
 }
 
 .header-bar a {
@@ -12,7 +12,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #276145 !important;
+    color: #0c3d89 !important;
 }
 
 .footer-area {
