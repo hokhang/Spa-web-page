@@ -11,12 +11,15 @@
             <div class="row d-flex align-items-end">
             <div class="col-md-12 text-center">
                 <p>Đại học Bách Khoa - Khoa Khoa học & Kỹ thuật Máy tính</p>
-                <p>Lập trình web</p>
+                <p>Lập trình web CO3049</p>
+                <a href= "https://www.facebook.com">Huỳnh Quốc Phú- 1712638</a></br>
+                <a href= "https://www.facebook.com">Hồ Bảo Khang - 1711680</a></br>
+                <a href= "https://www.facebook.com">Phạm Thị Hồng Hiếu - 2020025</a>
             </div>
             <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5" style="margin-left: auto; margin-right: auto;">
+                <li class="ftco-animate fadeInUp ftco-animated"><a href="https://twitter.com/" style="background-color: white;"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate fadeInUp ftco-animated"><a href="https://www.facebook.com/" style="background-color: white;"><span class="icon-facebook"></span></a></li>
                 <li class="ftco-animate fadeInUp ftco-animated"><a href="https://www.instagram.com/" style="background-color: white;"><span class="icon-instagram"></span></a></li>
-                <li class="ftco-animate fadeInUp ftco-animated"><a href="https://twitter.com/" style="background-color: white;"><span class="icon-twitter"></span></a></li>
             </ul>
             </div>
         </div>
